@@ -1,0 +1,14 @@
+{
+  "name": "practice_nodejs",
+  "version": "1.0.0",
+  "description": "introduccion a Node.js",
+  "main": "1-os_info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aldo",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}
